@@ -16,19 +16,43 @@
 #     print(f"{number} is an old number")
 
 
-shape = input("Enter a shape: ")
+# shape = input("Enter a shape: ")
 
-if shape.capitalize() == "Square":
-    print("*"*10)
-    print("*"*10)
-    print("*"*10)
-    print("*"*10)
-elif shape.capitalize() == "Triangle":
-    print(" *")
-    print(" *"*2)
-    print(" *"*3)
-    print(" *"*4)
-    print(" *"*5)
-    print(" *"*6)
-else:
-    print(f"{shape} is not available")
+# if shape.capitalize() == "Square" '':
+#     print("*"*10)
+#     print("*"*10)
+#     print("*"*10)
+#     print("*"*10)
+# elif shape.capitalize() == "Triangle":
+#     print(" *")
+#     print(" *"*2)
+#     print(" *"*3)
+#     print(" *"*4)
+#     print(" *"*5)
+#     print(" *"*6)
+# else:
+#     print(f"{shape} is not available")
+
+
+# Data Types
+"""
+String
+Integer
+float
+boolean
+    
+"""
+# number = '7067156212'
+# print('+234 -', number)
+# print(type(number))
+
+x = True
+y = False
+print(type(x), type(y))
+
+# Type casting
+
+x = input("Enter the first number: ")
+y = input("Enter the second number: ")
+sums = int(x) + int(y)
+print(f"The sum of {x} and {y} is {sums}")
