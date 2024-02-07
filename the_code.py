@@ -46,13 +46,24 @@ boolean
 # print('+234 -', number)
 # print(type(number))
 
-x = True
-y = False
-print(type(x), type(y))
+# x = True
+# y = False
+# print(type(x), type(y))
 
-# Type casting
+# # Type casting
 
-x = input("Enter the first number: ")
-y = input("Enter the second number: ")
-sums = int(x) + int(y)
-print(f"The sum of {x} and {y} is {sums}")
+# x = input("Enter the first number: ")
+# y = input("Enter the second number: ")
+# sums = int(x) + int(y)
+# print(f"The sum of {x} and {y} is {sums}")
+
+class Truck:
+    def set__color(self, color):
+        self.__color = color
+
+    def get__color(self):
+        return self.__color
+
+obj = Truck()
+obj.set__color("white")
+print(obj.get__color())
