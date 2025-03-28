@@ -57,13 +57,23 @@ boolean
 # sums = int(x) + int(y)
 # print(f"The sum of {x} and {y} is {sums}")
 
-class Truck:
-    def set__color(self, color):
-        self.__color = color
+#class Truck:
+#    def set__color(self, color):
+#        self.__color = color
 
-    def get__color(self):
-        return self.__color
+#    def get__color(self):
+#        return self.__color
 
-obj = Truck()
-obj.set__color("white")
-print(obj.get__color())
+#obj = Truck()
+#obj.set__color("white")
+#print(obj.get__color())
+
+
+
+import dns.resolver
+
+hostname = 'dpg-cn1teptjm4es73evleng-a'
+answers = dns.resolver.resolve(hostname, 'A')
+for answer in answers:
+    print("IP Address:", answer.to_text())
+
