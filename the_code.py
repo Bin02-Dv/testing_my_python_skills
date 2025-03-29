@@ -70,10 +70,10 @@ boolean
 
 
 
-import dns.resolver
+# import dns.resolver
 
-hostname = 'dpg-cn1teptjm4es73evleng-a'
-answers = dns.resolver.resolve(hostname, 'A')
-for answer in answers:
-    print("IP Address:", answer.to_text())
+# hostname = 'dpg-cn1teptjm4es73evleng-a'
+# # answers = dns.resolver.resolve(hostname, 'A')
+# for answer in answers:
+#     print("IP Address:", answer.to_text())
 
