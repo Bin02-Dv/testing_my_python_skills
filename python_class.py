@@ -21,6 +21,14 @@ ProductName = "V-Cool" # pascal casing
 # Data Types
 
 number = 2 # Integer
-float_number = 2.0 # Float
+float_number = 10.0 # Float
 string = "this is a string" # String
 boolean = True or False # Boolean
+
+print(string.upper())
+print(string.capitalize())
+print(string.lower())
+
+turn_to_list = string.split(" ")
+
+print(turn_to_list)
