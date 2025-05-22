@@ -77,3 +77,10 @@ boolean
 # for answer in answers:
 #     print("IP Address:", answer.to_text())
 
+def calculate_split(total_amount, developer_percent, referrer_percent):
+    dev_share = (developer_percent / 100) * total_amount
+    ref_share = (referrer_percent / 100) * total_amount
+    return dev_share, ref_share
+
+dev, ref = calculate_split(60000, 70, 30)
+print(f"Developer: ₦{dev:,.0f}, Referrer: ₦{ref:,.0f}")
