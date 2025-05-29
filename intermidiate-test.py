@@ -36,15 +36,32 @@ sorted_students_scores = sorted(scores.items(), key=lambda x: x[1], reverse=True
 #         print(f"Lowest score is: {student} with {lowest_score}")
 #         print(f"Average score is: {average_score}")
 
-total_number_of_students = len(scores)
-highest_scorer = max(scores, key=scores.get)
-lowest_scorer = min(scores, key=scores.get)
-total_scores = sum(scores.values())
-average_score = round(total_scores / total_number_of_students, 2)
+# total_number_of_students = len(scores)
+# highest_scorer = max(scores, key=scores.get)
+# lowest_scorer = min(scores, key=scores.get)
+# total_scores = sum(scores.values())
+# average_score = round(total_scores / total_number_of_students, 2)
 
-print("Student Performance Summary:")
-print(f"- Highest Score: {highest_scorer} with {scores[highest_scorer]}")
-print(f"- Lowest Score: {lowest_scorer} with {scores[lowest_scorer]}")
-print(f"- Average Score: {average_score}")
+# print("Student Performance Summary:")
+# print(f"- Highest Score: {highest_scorer} with {scores[highest_scorer]}")
+# print(f"- Lowest Score: {lowest_scorer} with {scores[lowest_scorer]}")
+# print(f"- Average Score: {average_score}")
+
+# import datetime
+
+# month = datetime.datetime.now().month
+# day = datetime.datetime.now().day
+# year = datetime.datetime.now().year
+
+# date = f"{month}/{day}/{year}"
+
+# time = datetime.datetime.now().strftime("%H:%M:%S")
+
+# print(date, time)
         
-    
+import os
+
+if os.path.exists("log.tx"):
+    print("File found!")
+else:
+    print("File not found...")    
