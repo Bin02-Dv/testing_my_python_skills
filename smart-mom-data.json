@@ -1,0 +1,1010 @@
+[
+  {
+    "question": "When should a pregnant woman start antenatal visits?",
+    "answer": "As soon as she suspects pregnancy, ideally before 12 weeks."
+  },
+  {
+    "question": "How often should a pregnant woman attend antenatal visits?",
+    "answer": "At least once every month until 28 weeks, every two weeks until 36 weeks, then weekly until delivery."
+  },
+  {
+    "question": "Why are antenatal visits important?",
+    "answer": "They help monitor the mother’s and baby’s health and detect any problems early."
+  },
+  {
+    "question": "What foods should be avoided during pregnancy?",
+    "answer": "Raw meat, unpasteurized milk, alcohol, and fish high in mercury."
+  },
+  {
+    "question": "Which foods are good for pregnant women?",
+    "answer": "Fruits, vegetables, beans, eggs, milk, and whole grains."
+  },
+  {
+    "question": "How much water should a pregnant woman drink daily?",
+    "answer": "At least 8 to 10 glasses of clean water every day."
+  },
+  {
+    "question": "Can a pregnant woman exercise?",
+    "answer": "Yes, light exercise like walking or stretching is safe and healthy."
+  },
+  {
+    "question": "What kind of exercise is safe during pregnancy?",
+    "answer": "Walking, swimming, and prenatal yoga are safe when done moderately."
+  },
+  {
+    "question": "What are the signs of pregnancy danger?",
+    "answer": "Bleeding, severe headache, blurred vision, swelling, or reduced baby movement."
+  },
+  {
+    "question": "What should a pregnant woman do if she notices vaginal bleeding?",
+    "answer": "Go to the nearest health center or hospital immediately."
+  },
+  {
+    "question": "How can a pregnant woman prevent anemia?",
+    "answer": "Eat iron-rich foods like beans, spinach, and liver, and take iron tablets as prescribed."
+  },
+  {
+    "question": "Why is rest important during pregnancy?",
+    "answer": "Rest helps the body recover and supports healthy baby growth."
+  },
+  {
+    "question": "Is it safe to sleep on the back during late pregnancy?",
+    "answer": "No, it’s better to sleep on the left side to improve blood flow to the baby."
+  },
+  {
+    "question": "Why should pregnant women sleep on their left side?",
+    "answer": "It helps improve blood flow to the baby and reduces swelling."
+  },
+  {
+    "question": "Why should pregnant women avoid alcohol?",
+    "answer": "Because alcohol can harm the baby’s brain and development."
+  },
+  {
+    "question": "Is smoking safe during pregnancy?",
+    "answer": "No, smoking can cause miscarriage, low birth weight, or premature delivery."
+  },
+  {
+    "question": "Why should pregnant women take folic acid?",
+    "answer": "Folic acid helps prevent birth defects in the baby’s brain and spine."
+  },
+  {
+    "question": "When should a pregnant woman start taking iron and folic acid tablets?",
+    "answer": "From the first antenatal visit and continue until after delivery."
+  },
+  {
+    "question": "What can cause swollen feet during pregnancy?",
+    "answer": "Normal pregnancy changes or high blood pressure. It should be checked by a doctor."
+  },
+  {
+    "question": "Why is blood pressure checked during antenatal visits?",
+    "answer": "To detect early signs of preeclampsia or other complications."
+  },
+  {
+    "question": "Can a pregnant woman fast?",
+    "answer": "It’s best to talk to a health worker before fasting, especially in later stages."
+  },
+  {
+    "question": "Why should pregnant women eat small frequent meals?",
+    "answer": "It helps prevent nausea, heartburn, and low energy."
+  },
+  {
+    "question": "How can a pregnant woman reduce nausea?",
+    "answer": "Eat small meals, avoid greasy foods, and rest well."
+  },
+  {
+    "question": "What causes heartburn in pregnancy?",
+    "answer": "Hormonal changes and pressure from the growing baby."
+  },
+  {
+    "question": "How can heartburn be relieved during pregnancy?",
+    "answer": "Eat small meals, avoid spicy food, and don’t lie down right after eating."
+  },
+  {
+    "question": "Why is handwashing important during pregnancy?",
+    "answer": "It prevents infections that can harm the mother or baby."
+  },
+  {
+    "question": "Why should pregnant women avoid raw eggs?",
+    "answer": "Because raw eggs can contain bacteria that cause food poisoning."
+  },
+  {
+    "question": "Is it safe to dye hair during pregnancy?",
+    "answer": "It’s best to avoid strong hair chemicals, especially in the first trimester."
+  },
+  {
+    "question": "What are signs of labor?",
+    "answer": "Regular contractions, water breaking, and back pain."
+  },
+  {
+    "question": "When should a pregnant woman go to the hospital for delivery?",
+    "answer": "When contractions are regular or if her water breaks."
+  },
+  {
+    "question": "What should be prepared in a hospital bag?",
+    "answer": "Baby clothes, wrapper, sanitary pads, soap, and important documents."
+  },
+  {
+    "question": "Why is tetanus vaccination important during pregnancy?",
+    "answer": "It protects both mother and baby from tetanus infection."
+  },
+  {
+    "question": "How many tetanus injections does a pregnant woman need?",
+    "answer": "At least two doses during pregnancy for full protection."
+  },
+  {
+    "question": "Why should pregnant women avoid stress?",
+    "answer": "Stress can raise blood pressure and affect the baby’s growth."
+  },
+  {
+    "question": "Is it safe to take medicine during pregnancy?",
+    "answer": "Only medicines prescribed by a health worker should be taken."
+  },
+  {
+    "question": "Why should a pregnant woman avoid herbal mixtures?",
+    "answer": "Some herbs can be unsafe and harm the baby."
+  },
+  {
+    "question": "What is the benefit of eating fruits during pregnancy?",
+    "answer": "Fruits provide vitamins and fiber that keep the mother healthy."
+  },
+  {
+    "question": "Why is it important to monitor baby movement?",
+    "answer": "Reduced movement may mean the baby is in distress."
+  },
+  {
+    "question": "What should a woman do if she feels no baby movement for a long time?",
+    "answer": "Go to a hospital or clinic immediately."
+  },
+  {
+    "question": "Why should pregnant women avoid standing for long hours?",
+    "answer": "Because it can cause swelling and tiredness."
+  },
+  {
+    "question": "Can a pregnant woman travel long distances?",
+    "answer": "Traveling is okay early in pregnancy, but avoid it near delivery time."
+  },
+  {
+    "question": "How can constipation be prevented in pregnancy?",
+    "answer": "Eat foods rich in fiber, drink plenty of water, and stay active."
+  },
+  {
+    "question": "Why is partner support important during pregnancy?",
+    "answer": "It helps reduce stress and keeps the woman emotionally healthy."
+  },
+  {
+    "question": "What should be done if a pregnant woman has fever or chills?",
+    "answer": "See a health worker immediately to rule out malaria or infection."
+  },
+  {
+    "question": "Why should pregnant women avoid caffeine?",
+    "answer": "Too much caffeine can affect the baby’s growth."
+  },
+  {
+    "question": "Why are regular checkups important even if a woman feels fine?",
+    "answer": "Some problems don’t show symptoms but can harm mother or baby."
+  },
+  {
+    "question": "What clothes are best for pregnant women?",
+    "answer": "Loose, comfortable clothes that allow free movement."
+  },
+  {
+    "question": "How can back pain be reduced during pregnancy?",
+    "answer": "Maintain good posture, rest, and use pillows for support."
+  },
+  {
+    "question": "Why should pregnant women avoid cleaning cat litter?",
+    "answer": "It can cause toxoplasmosis, which is dangerous for the baby."
+  },
+  {
+    "question": "How can a pregnant woman stay healthy during pregnancy?",
+    "answer": "Eat well, rest enough, attend antenatal care, and avoid harmful habits."
+  },
+  {
+    "question": "What should a pregnant woman eat for breakfast?",
+    "answer": "A light meal with fruits, grains, and milk helps start the day with energy."
+  },
+  {
+    "question": "How can a pregnant woman stay active?",
+    "answer": "By walking, stretching, or doing light household chores daily."
+  },
+  {
+    "question": "Is it normal to feel tired during pregnancy?",
+    "answer": "Yes, the body works harder, so rest often and eat well."
+  },
+  {
+    "question": "Why should pregnant women drink milk?",
+    "answer": "Milk provides calcium that strengthens bones and teeth."
+  },
+  {
+    "question": "Can pregnant women eat spicy food?",
+    "answer": "Yes, but too much spice can cause heartburn."
+  },
+  {
+    "question": "How can pregnant women prevent malaria?",
+    "answer": "By sleeping under an insecticide-treated net every night."
+  },
+  {
+    "question": "Why should pregnant women wear flat shoes?",
+    "answer": "Flat shoes help prevent falls and reduce back pain."
+  },
+  {
+    "question": "Can a pregnant woman lift heavy items?",
+    "answer": "No, lifting heavy things can strain the back or cause miscarriage."
+  },
+  {
+    "question": "Why is it important to know the expected delivery date?",
+    "answer": "It helps the mother prepare early and know when to seek care."
+  },
+  {
+    "question": "What should a woman do if her blood pressure is high during pregnancy?",
+    "answer": "Follow the doctor’s advice and avoid salty foods."
+  },
+  {
+    "question": "How can pregnant women manage stress?",
+    "answer": "Rest, talk to loved ones, and avoid worrying too much."
+  },
+  {
+    "question": "Is it safe for a pregnant woman to take painkillers?",
+    "answer": "Only take medicine prescribed by a health worker."
+  },
+  {
+    "question": "Can a pregnant woman color her hair?",
+    "answer": "It’s best to avoid harsh chemicals during pregnancy."
+  },
+  {
+    "question": "How can pregnant women keep their skin healthy?",
+    "answer": "Eat fruits, drink water, and use mild soap daily."
+  },
+  {
+    "question": "What should a pregnant woman do if she has severe headache and blurred vision?",
+    "answer": "Go to a hospital immediately; it may be preeclampsia."
+  },
+  {
+    "question": "Why is antenatal counseling important?",
+    "answer": "It helps women learn how to care for themselves and their babies."
+  },
+  {
+    "question": "What should a woman do if her hands and face swell suddenly?",
+    "answer": "See a health worker immediately; it may be a sign of high blood pressure."
+  },
+  {
+    "question": "Can a pregnant woman drink coffee?",
+    "answer": "Limit to one cup a day or less, as too much caffeine isn’t safe."
+  },
+  {
+    "question": "Why is sunlight important for pregnant women?",
+    "answer": "Morning sunlight provides vitamin D for strong bones."
+  },
+  {
+    "question": "What is the best sleeping position in late pregnancy?",
+    "answer": "Sleeping on the left side improves blood flow to the baby."
+  },
+  {
+    "question": "Why should pregnant women avoid alcohol?",
+    "answer": "Alcohol can harm the baby’s brain and development."
+  },
+  {
+    "question": "Can pregnant women take herbal medicines?",
+    "answer": "Only if recommended by a qualified health worker."
+  },
+  {
+    "question": "How can pregnant women prevent constipation?",
+    "answer": "Eat fiber-rich foods and drink lots of water."
+  },
+  {
+    "question": "Why should pregnant women go for regular checkups?",
+    "answer": "To monitor baby growth and detect any health problems early."
+  },
+  {
+    "question": "What is the benefit of eating green vegetables in pregnancy?",
+    "answer": "They provide iron and vitamins that prevent anemia."
+  },
+  {
+    "question": "Why is it important to take iron tablets?",
+    "answer": "Iron tablets prevent anemia and keep the mother strong."
+  },
+  {
+    "question": "Can a pregnant woman sleep during the day?",
+    "answer": "Yes, short naps during the day help the body rest."
+  },
+  {
+    "question": "What should a pregnant woman do if she has fever?",
+    "answer": "See a health worker immediately to rule out infection or malaria."
+  },
+  {
+    "question": "Why should pregnant women avoid cats?",
+    "answer": "Cat litter may contain germs that can harm the baby."
+  },
+  {
+    "question": "How can a pregnant woman deal with morning sickness?",
+    "answer": "Eat small meals, avoid strong smells, and rest often."
+  },
+  {
+    "question": "What should be avoided to reduce heartburn?",
+    "answer": "Avoid spicy, fried, or heavy foods before bedtime."
+  },
+  {
+    "question": "How many meals should a pregnant woman eat daily?",
+    "answer": "Three main meals and two light snacks are ideal."
+  },
+  {
+    "question": "Why should pregnant women avoid raw fish?",
+    "answer": "Raw fish can contain parasites harmful to the baby."
+  },
+  {
+    "question": "Can a pregnant woman travel by motorcycle?",
+    "answer": "It’s best to avoid it, especially in the last trimester."
+  },
+  {
+    "question": "Why should pregnant women drink clean water?",
+    "answer": "To prevent dehydration and infections."
+  },
+  {
+    "question": "How can a pregnant woman prepare for delivery?",
+    "answer": "Attend antenatal classes and pack her hospital bag early."
+  },
+  {
+    "question": "What should a woman do if her water breaks before labor?",
+    "answer": "Go to the hospital immediately."
+  },
+  {
+    "question": "Why is emotional support important during pregnancy?",
+    "answer": "It helps reduce anxiety and improves overall health."
+  },
+  {
+    "question": "What should a woman do if she feels dizzy during pregnancy?",
+    "answer": "Sit or lie down, drink water, and rest."
+  },
+  {
+    "question": "Can a pregnant woman go to work?",
+    "answer": "Yes, as long as the work is not too stressful or tiring."
+  },
+  {
+    "question": "Why is regular exercise important in pregnancy?",
+    "answer": "It improves circulation and prepares the body for labor."
+  },
+  {
+    "question": "When should a woman plan her first antenatal visit?",
+    "answer": "As soon as she suspects she is pregnant."
+  },
+  {
+    "question": "Why should pregnant women avoid smoking?",
+    "answer": "Smoking reduces oxygen to the baby and can cause low birth weight."
+  },
+  {
+    "question": "Can pregnant women use mosquito repellent?",
+    "answer": "Yes, but use safe repellents recommended for pregnancy."
+  },
+  {
+    "question": "What can help with leg cramps during pregnancy?",
+    "answer": "Eat bananas and stretch your legs regularly."
+  },
+  {
+    "question": "Why should pregnant women eat enough protein?",
+    "answer": "Protein helps build the baby’s muscles and tissues."
+  },
+  {
+    "question": "Can pregnant women eat peanuts?",
+    "answer": "Yes, unless they are allergic to them."
+  },
+  {
+    "question": "Why is good hygiene important in pregnancy?",
+    "answer": "It helps prevent infections and keeps mother and baby healthy."
+  },
+  {
+    "question": "When should a woman go to the hospital during labor?",
+    "answer": "When contractions are strong and regular or if her water breaks."
+  },
+  {
+    "question": "How can a pregnant woman stay positive?",
+    "answer": "Talk to supportive people and focus on the joy of motherhood."
+  },
+  {
+    "question": "Why should pregnant women avoid skipping meals?",
+    "answer": "Because the baby needs steady nutrients for healthy growth."
+  },
+  {
+    "question": "What should a woman do if she feels contractions too early?",
+    "answer": "Go to the hospital immediately; it might be preterm labor."
+  },
+  {
+    "question": "Why is it important to take rest during the last months of pregnancy?",
+    "answer": "Because the body needs more energy as the baby grows quickly."
+  },
+  {
+    "question": "How can a pregnant woman stay cool during hot weather?",
+    "answer": "Drink lots of water, wear light clothes, and stay in the shade."
+  },
+  {
+    "question": "Why is antenatal education important?",
+    "answer": "It prepares mothers for childbirth and newborn care."
+  },
+  {
+    "question": "What can cause swelling in the legs during pregnancy?",
+    "answer": "Normal body changes or sitting for too long; rest with feet raised helps."
+  },
+  {
+    "question": "Can a pregnant woman eat street food?",
+    "answer": "It’s safer to avoid it to prevent food poisoning."
+  },
+  {
+    "question": "How can a pregnant woman prevent infections?",
+    "answer": "Wash hands often and eat well-cooked food."
+  },
+  {
+    "question": "What should a pregnant woman do if she notices a foul vaginal smell?",
+    "answer": "Visit a health center for examination and treatment."
+  },
+  {
+    "question": "Why should pregnant women attend all antenatal appointments?",
+    "answer": "Each visit checks for new health risks and tracks baby growth."
+  },
+  {
+    "question": "What is the benefit of eating eggs during pregnancy?",
+    "answer": "Eggs provide protein and nutrients for baby’s development."
+  },
+  {
+    "question": "Can a pregnant woman take vitamin supplements?",
+    "answer": "Yes, but only as prescribed by a doctor or midwife."
+  },
+  {
+    "question": "Why is handwashing after toilet use important in pregnancy?",
+    "answer": "It prevents germs that can cause infections."
+  },
+  {
+    "question": "What should a woman do if she feels shortness of breath during pregnancy?",
+    "answer": "Rest, sit upright, and inform her health worker if it continues."
+  },
+  {
+    "question": "Why should pregnant women get enough sleep?",
+    "answer": "Sleep helps the body recover and supports baby’s growth."
+  },
+  {
+    "question": "Can pregnant women eat ice cream?",
+    "answer": "Yes, if it’s made from pasteurized milk and eaten in moderation."
+  },
+  {
+    "question": "What causes back pain during pregnancy?",
+    "answer": "Weight gain and posture changes as the baby grows."
+  },
+  {
+    "question": "How can back pain be eased during pregnancy?",
+    "answer": "Use pillows for support, sit upright, and avoid heavy lifting."
+  },
+  {
+    "question": "Can a pregnant woman take hot baths?",
+    "answer": "Warm baths are okay, but very hot baths should be avoided."
+  },
+  {
+    "question": "Why should pregnant women take plenty of fluids?",
+    "answer": "To prevent dehydration and help the body work properly."
+  },
+  {
+    "question": "Why should a pregnant woman avoid stress?",
+    "answer": "Because stress can increase blood pressure and affect the baby."
+  },
+  {
+    "question": "What is the importance of partner involvement in antenatal care?",
+    "answer": "Partners provide support and learn how to help during pregnancy."
+  },
+  {
+    "question": "Can a pregnant woman drink herbal tea?",
+    "answer": "Some are safe, but always ask a health worker before taking any."
+  },
+  {
+    "question": "How can a pregnant woman avoid infection from mosquito bites?",
+    "answer": "By sleeping under a treated mosquito net every night."
+  },
+  {
+    "question": "Why should pregnant women take deworming medicine?",
+    "answer": "To prevent worms that can cause anemia and weakness."
+  },
+  {
+    "question": "What causes dizziness during pregnancy?",
+    "answer": "Low blood pressure, hunger, or standing up too quickly."
+  },
+  {
+    "question": "Can a pregnant woman travel by airplane?",
+    "answer": "Yes, but it’s best to avoid long flights in the last month."
+  },
+  {
+    "question": "Why is it important to prepare for childbirth early?",
+    "answer": "So there is enough time to plan, save, and choose a safe facility."
+  },
+  {
+    "question": "What should a pregnant woman avoid doing in the kitchen?",
+    "answer": "Lifting heavy pots or bending for long periods."
+  },
+  {
+    "question": "Why should pregnant women avoid cold soft drinks?",
+    "answer": "They often contain too much sugar and caffeine."
+  },
+  {
+    "question": "Can a pregnant woman keep pets?",
+    "answer": "Yes, but avoid handling animal waste and keep pets clean."
+  },
+  {
+    "question": "Why is iron important in pregnancy?",
+    "answer": "It helps make blood and prevents tiredness and anemia."
+  },
+  {
+    "question": "Can a pregnant woman go swimming?",
+    "answer": "Yes, swimming is safe and helps relieve back pain."
+  },
+  {
+    "question": "Why should pregnant women avoid tight clothing?",
+    "answer": "Tight clothes reduce comfort and blood circulation."
+  },
+  {
+    "question": "What is the benefit of attending antenatal classes?",
+    "answer": "They teach mothers about delivery and newborn care."
+  },
+  {
+    "question": "Why should pregnant women avoid alcohol-based herbal drinks?",
+    "answer": "Because alcohol harms the baby’s brain and organs."
+  },
+  {
+    "question": "How can a pregnant woman relieve stress?",
+    "answer": "Rest, listen to calm music, or talk to supportive people."
+  },
+  {
+    "question": "Why should pregnant women keep emergency contacts ready?",
+    "answer": "To get quick help in case of labor or emergencies."
+  },
+  {
+    "question": "Why should pregnant women attend postnatal care visits?",
+    "answer": "To ensure both mother and baby are recovering well after delivery."
+  },
+  {
+    "question": "Can a pregnant woman sleep on her stomach?",
+    "answer": "No, it becomes uncomfortable and may harm the baby in late pregnancy."
+  },
+  {
+    "question": "Why should pregnant women avoid strong cleaning chemicals?",
+    "answer": "The fumes can be harmful to the baby."
+  },
+  {
+    "question": "How can pregnant women maintain oral hygiene?",
+    "answer": "Brush gently twice daily and visit the dentist for checkups."
+  },
+  {
+    "question": "What should a woman do if she sees blood after delivery?",
+    "answer": "If bleeding is heavy, go to the hospital immediately."
+  },
+  {
+    "question": "Why is breastfeeding soon after birth important?",
+    "answer": "It helps the baby bond and provides first protection from infections."
+  },
+  {
+    "question": "How long should a mother breastfeed exclusively?",
+    "answer": "For the first six months of the baby’s life."
+  },
+  {
+    "question": "When should a mother go for her first postnatal visit?",
+    "answer": "Within 48 hours after delivery."
+  },
+  {
+    "question": "Why is colostrum important for the baby?",
+    "answer": "It’s rich in nutrients and antibodies that protect the baby."
+  },
+  {
+    "question": "How can a mother increase breast milk flow?",
+    "answer": "Breastfeed often, drink water, and eat balanced meals."
+  },
+  {
+    "question": "When should a mother start preparing for breastfeeding?",
+    "answer": "During pregnancy by learning from health workers."
+  },
+  {
+    "question": "Why should newborns be kept warm?",
+    "answer": "To prevent cold stress, which can make them sick."
+  },
+  {
+    "question": "Why should a pregnant woman avoid self-medication?",
+    "answer": "Because some medicines can harm the baby or cause birth defects."
+  },
+  {
+    "question": "Can a pregnant woman fast?",
+    "answer": "It depends on her health; she should ask her doctor before fasting."
+  },
+  {
+    "question": "Why should a pregnant woman keep her vaccination card safe?",
+    "answer": "It helps track which vaccines she has received and when the next is due."
+  },
+  {
+    "question": "What should a pregnant woman do if she vomits often?",
+    "answer": "Drink fluids, eat small meals, and visit a health center if it continues."
+  },
+  {
+    "question": "Why is it important to know your blood type during pregnancy?",
+    "answer": "To prevent complications like Rh incompatibility between mother and baby."
+  },
+  {
+    "question": "Can a pregnant woman drink coffee?",
+    "answer": "Yes, but limit it to one small cup a day due to caffeine."
+  },
+  {
+    "question": "What are the signs of high blood pressure in pregnancy?",
+    "answer": "Severe headache, blurred vision, and swelling in the face or hands."
+  },
+  {
+    "question": "Why should pregnant women check their blood pressure regularly?",
+    "answer": "To detect conditions like preeclampsia early."
+  },
+  {
+    "question": "What can a woman do to prevent anemia during pregnancy?",
+    "answer": "Eat foods rich in iron and take prescribed iron tablets."
+  },
+  {
+    "question": "Can a pregnant woman do light exercises?",
+    "answer": "Yes, gentle exercises like walking or stretching are safe and helpful."
+  },
+  {
+    "question": "Why should pregnant women avoid alcohol?",
+    "answer": "Because alcohol can cause serious harm to the baby’s brain and growth."
+  },
+  {
+    "question": "What should a woman do if she feels her baby is not moving?",
+    "answer": "Lie down, monitor movement, and visit the hospital if still no movement."
+  },
+  {
+    "question": "Why is it important to plan for delivery early?",
+    "answer": "To ensure the mother reaches a safe place in time for childbirth."
+  },
+  {
+    "question": "What can help reduce leg cramps during pregnancy?",
+    "answer": "Stretching, drinking water, and eating foods with calcium and potassium."
+  },
+  {
+    "question": "Can a pregnant woman dye her hair?",
+    "answer": "It’s best to avoid strong chemicals, especially in early pregnancy."
+  },
+  {
+    "question": "Why is hygiene important during pregnancy?",
+    "answer": "To prevent infections that can affect both mother and baby."
+  },
+  {
+    "question": "Can a pregnant woman lift her other child?",
+    "answer": "She should avoid lifting heavy loads to prevent back strain."
+  },
+  {
+    "question": "What is the best sleeping position during pregnancy?",
+    "answer": "On the left side to improve blood flow to the baby."
+  },
+  {
+    "question": "Why should pregnant women avoid standing for long periods?",
+    "answer": "It can cause leg swelling and back pain."
+  },
+  {
+    "question": "Can a pregnant woman use mosquito spray?",
+    "answer": "Yes, but choose sprays that are safe for pregnancy."
+  },
+  {
+    "question": "Why is it important to eat fruits and vegetables daily?",
+    "answer": "They provide vitamins and fiber for digestion and baby growth."
+  },
+  {
+    "question": "Why should a pregnant woman avoid sugary drinks?",
+    "answer": "They can cause excessive weight gain and gestational diabetes."
+  },
+  {
+    "question": "Can a pregnant woman take painkillers?",
+    "answer": "Only those prescribed by a doctor, as some are unsafe in pregnancy."
+  },
+  {
+    "question": "Why is calcium important during pregnancy?",
+    "answer": "It helps build the baby’s bones and teeth."
+  },
+  {
+    "question": "Can a pregnant woman go for walks?",
+    "answer": "Yes, walking is safe and helps maintain good health."
+  },
+  {
+    "question": "Why should pregnant women avoid stress and anger?",
+    "answer": "Because it can raise blood pressure and affect the baby’s growth."
+  },
+  {
+    "question": "What should a woman do if she has bleeding gums during pregnancy?",
+    "answer": "Brush gently and visit a dentist for advice."
+  },
+  {
+    "question": "Can pregnant women eat spicy food?",
+    "answer": "Yes, in moderation, but too much can cause heartburn."
+  },
+  {
+    "question": "Why should pregnant women wear flat shoes?",
+    "answer": "To prevent falls and reduce back pain."
+  },
+  {
+    "question": "What are the early signs of labor?",
+    "answer": "Regular contractions, back pain, and fluid or blood discharge."
+  },
+  {
+    "question": "Can a pregnant woman take a flight?",
+    "answer": "Yes, but she should check with her doctor first."
+  },
+  {
+    "question": "Why should pregnant women avoid lifting heavy objects?",
+    "answer": "Because it can cause strain or early labor."
+  },
+  {
+    "question": "What is antenatal care?",
+    "answer": "Regular checkups and care given to a woman during pregnancy."
+  },
+  {
+    "question": "Why is it important to know your due date?",
+    "answer": "To plan delivery and monitor the baby’s growth."
+  },
+  {
+    "question": "Can a pregnant woman wear makeup?",
+    "answer": "Yes, but avoid products with strong chemicals or fragrances."
+  },
+  {
+    "question": "Why should a pregnant woman sleep enough?",
+    "answer": "To help her body rest and prepare for labor."
+  },
+  {
+    "question": "Can a pregnant woman have sex?",
+    "answer": "Yes, if her pregnancy is healthy and her doctor says it’s safe."
+  },
+  {
+    "question": "Why should pregnant women take folic acid?",
+    "answer": "To prevent birth defects in the baby’s brain and spine."
+  },
+  {
+    "question": "What should a pregnant woman do if she has constant headaches?",
+    "answer": "Rest, drink water, and visit the clinic if it doesn’t stop."
+  },
+  {
+    "question": "Can a pregnant woman drive?",
+    "answer": "Yes, if she feels comfortable and wears a seatbelt correctly."
+  },
+  {
+    "question": "Why should pregnant women keep emergency money ready?",
+    "answer": "For transport or hospital needs when labor begins unexpectedly."
+  },
+  {
+    "question": "Why should a woman avoid smoking during pregnancy?",
+    "answer": "Smoking harms the baby’s lungs and reduces oxygen supply."
+  },
+  {
+    "question": "Can a pregnant woman go to crowded places?",
+    "answer": "It’s best to avoid them to reduce risk of infections."
+  },
+  {
+    "question": "Why is it important to eat breakfast daily in pregnancy?",
+    "answer": "To give energy and prevent dizziness or nausea."
+  },
+  {
+    "question": "Can a pregnant woman climb stairs?",
+    "answer": "Yes, slowly and carefully, but avoid overexertion."
+  },
+  {
+    "question": "Why should a pregnant woman take enough water?",
+    "answer": "It helps digestion, reduces swelling, and prevents constipation."
+  },
+  {
+    "question": "Can a pregnant woman sleep during the day?",
+    "answer": "Yes, short naps help restore energy and reduce fatigue."
+  },
+  {
+    "question": "Why should a pregnant woman visit a skilled health worker?",
+    "answer": "For safe care, proper guidance, and quick management of any problems."
+  },
+  {
+    "question": "Why should a pregnant woman attend health talks?",
+    "answer": "To learn about nutrition, hygiene, and preparing for childbirth."
+  },
+  {
+    "question": "Why should pregnant women avoid stressful news or arguments?",
+    "answer": "Because mental peace supports a healthy pregnancy."
+  },
+  {
+    "question": "What should a pregnant woman do if her legs swell suddenly?",
+    "answer": "Visit the hospital, as it may be a sign of high blood pressure."
+  },
+   {
+    "question": "Why should a woman plan her pregnancy?",
+    "answer": "To prepare her body, finances, and mind for a healthy baby."
+  },
+  {
+    "question": "Can a woman get pregnant while breastfeeding?",
+    "answer": "Yes, it’s possible if breastfeeding is not exclusive or regular."
+  },
+  {
+    "question": "Why is spacing between pregnancies important?",
+    "answer": "It gives the mother time to recover and care for her baby well."
+  },
+  {
+    "question": "What should a mother eat after delivery?",
+    "answer": "Balanced meals with fruits, vegetables, and enough fluids for recovery."
+  },
+  {
+    "question": "Why should mothers rest after childbirth?",
+    "answer": "To regain strength and allow the body to heal properly."
+  },
+  {
+    "question": "When should a new mother start family planning?",
+    "answer": "At the first postnatal visit or as advised by her health worker."
+  },
+  {
+    "question": "Why is exclusive breastfeeding recommended for six months?",
+    "answer": "Because breast milk has all the nutrients a baby needs early in life."
+  },
+  {
+    "question": "What should a mother do if her nipples crack during breastfeeding?",
+    "answer": "Apply breast milk on the area and ensure proper baby latching."
+  },
+  {
+    "question": "Why should babies be immunized?",
+    "answer": "To protect them from deadly diseases like polio and measles."
+  },
+  {
+    "question": "When should a mother start immunizing her baby?",
+    "answer": "Immediately after birth, starting with the BCG and polio vaccines."
+  },
+  {
+    "question": "What should a mother do if her baby has fever after immunization?",
+    "answer": "Give paracetamol and continue breastfeeding; if it persists, visit a clinic."
+  },
+  {
+    "question": "Why should new mothers eat more vegetables?",
+    "answer": "They help prevent constipation and improve recovery after birth."
+  },
+  {
+    "question": "What should a mother do if she has breast engorgement?",
+    "answer": "Express some milk and feed the baby more often."
+  },
+  {
+    "question": "Why should new mothers keep their perineal area clean?",
+    "answer": "To prevent infection and promote faster healing after delivery."
+  },
+  {
+    "question": "Can a woman get depressed after childbirth?",
+    "answer": "Yes, it’s called postpartum depression and needs emotional support and care."
+  },
+  {
+    "question": "Why should partners support mothers after delivery?",
+    "answer": "It helps reduce stress and encourages good baby care."
+  },
+  {
+    "question": "What should a mother do if she feels sad or hopeless after birth?",
+    "answer": "Talk to a health worker or counselor for help."
+  },
+  {
+    "question": "Why should new mothers attend postnatal checkups?",
+    "answer": "To monitor healing and check both mother’s and baby’s health."
+  },
+  {
+    "question": "How can a mother prevent infection in her newborn?",
+    "answer": "By washing hands before touching the baby and keeping the cord clean."
+  },
+  {
+    "question": "When should a baby’s umbilical cord fall off?",
+    "answer": "Usually within 7 to 14 days after birth."
+  },
+  {
+    "question": "What should a mother do if the umbilical cord area looks red or smells bad?",
+    "answer": "Go to the clinic immediately; it could be an infection."
+  },
+  {
+    "question": "Why should newborns be kept skin-to-skin with their mothers?",
+    "answer": "It helps them stay warm and strengthens bonding."
+  },
+  {
+    "question": "Can a mother bathe her baby on the first day?",
+    "answer": "It’s better to wait at least 24 hours to keep the baby warm."
+  },
+  {
+    "question": "Why should mothers avoid giving water to newborns?",
+    "answer": "Breast milk already contains enough water for the baby."
+  },
+  {
+    "question": "What should a mother do if her baby refuses to breastfeed?",
+    "answer": "Try different positions and seek help from a health worker."
+  },
+  {
+    "question": "Why is it important to register a baby’s birth early?",
+    "answer": "It provides legal identity and access to healthcare and education."
+  },
+  {
+    "question": "What can a mother do to prevent malaria for her baby?",
+    "answer": "Use mosquito nets and keep the home environment clean."
+  },
+  {
+    "question": "Why should mothers practice exclusive breastfeeding?",
+    "answer": "It strengthens the baby’s immunity and prevents illness."
+  },
+  {
+    "question": "What should a mother do if her baby has diarrhea?",
+    "answer": "Continue breastfeeding and give oral rehydration solution (ORS)."
+  },
+  {
+    "question": "Why should a mother attend growth monitoring sessions?",
+    "answer": "To track the baby’s weight and ensure healthy development."
+  },
+  {
+    "question": "Can a new mother exercise?",
+    "answer": "Yes, gentle exercises after a few weeks help recovery."
+  },
+  {
+    "question": "Why should mothers drink enough water while breastfeeding?",
+    "answer": "It helps maintain good milk flow and hydration."
+  },
+  {
+    "question": "When should a mother return to work after childbirth?",
+    "answer": "After her maternity leave, ensuring both she and baby are healthy."
+  },
+  {
+    "question": "Can a new mother use traditional herbs after delivery?",
+    "answer": "Only if approved by a health professional to avoid harm."
+  },
+  {
+    "question": "Why is family planning important after childbirth?",
+    "answer": "It helps space pregnancies and keeps the mother healthy."
+  },
+  {
+    "question": "What should a mother do if she has a fever after delivery?",
+    "answer": "Go to the hospital immediately—it could be an infection."
+  },
+  {
+    "question": "Why should mothers eat enough protein foods?",
+    "answer": "Protein helps repair body tissues and supports milk production."
+  },
+  {
+    "question": "Can a breastfeeding mother drink alcohol?",
+    "answer": "No, because it can pass to the baby through breast milk."
+  },
+  {
+    "question": "Why should mothers wash their hands before breastfeeding?",
+    "answer": "To prevent passing germs to the baby."
+  },
+  {
+    "question": "Why is it important to keep the baby’s sleeping area clean?",
+    "answer": "To prevent infections and ensure the baby breathes clean air."
+  },
+  {
+    "question": "What should a mother do if she notices swelling in her breasts?",
+    "answer": "Breastfeed or express milk frequently to relieve pressure."
+  },
+  {
+    "question": "Can a new mother take birth control pills?",
+    "answer": "Yes, but only those recommended for breastfeeding women."
+  },
+  {
+    "question": "Why should mothers avoid overworking after childbirth?",
+    "answer": "To allow the body time to rest and recover fully."
+  },
+  {
+    "question": "What should a mother do if she notices her baby’s eyes turning yellow?",
+    "answer": "Take the baby to the hospital; it could be jaundice."
+  },
+  {
+    "question": "Why should new mothers keep follow-up appointments?",
+    "answer": "To ensure both mother and baby remain healthy after discharge."
+  },
+  {
+    "question": "What should a mother do if she experiences heavy bleeding after birth?",
+    "answer": "Go to the nearest hospital immediately—it’s an emergency."
+  },
+  {
+    "question": "Why should mothers avoid tight clothing after delivery?",
+    "answer": "To stay comfortable and allow proper blood flow."
+  },
+  {
+    "question": "Can a breastfeeding mother take painkillers?",
+    "answer": "Yes, but only those prescribed as safe for breastfeeding."
+  },
+  {
+    "question": "Why should mothers keep their babies vaccinated on time?",
+    "answer": "Because delays can leave the baby unprotected from diseases."
+  },
+  {
+    "question": "Why should mothers continue eating healthy after birth?",
+    "answer": "To recover faster and produce nutritious milk for the baby."
+  },
+  {
+    "question": "What should a mother do if she feels weak or dizzy after delivery?",
+    "answer": "Rest, eat iron-rich foods, and see a health worker if it persists."
+  }
+]
